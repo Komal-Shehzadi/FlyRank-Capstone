@@ -14,6 +14,27 @@ This project focuses on building modern frontend applications using AI-assisted 
 - Git & GitHub
 - Cursor AI / Claude Code
 
+## Getting Started
+
+### Prerequisites
+
+- A modern web browser
+- [Git](https://git-scm.com/) installed
+- Cursor or VS Code (optional: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for local preview)
+
+### Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Komal-Shehzadi/FlyRank-Capstone.git
+   cd FlyRank-Capstone
+   ```
+
+2. Open the project folder in Cursor.
+
+3. Once the app files are added, open `index.html` with Live Server or directly in your browser.
+
 ## Development Approach
 
 - Responsive design
