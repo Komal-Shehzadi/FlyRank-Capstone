@@ -47,3 +47,11 @@ refactor: for code improvements
 - Check responsiveness.
 - Review code quality.
 - Suggest improvements when needed.
+
+## Project Status
+
+Currently preparing the development environment and workflow for the FlyRank AI Engineering Internship.
+
+## Future Development
+
+The upcoming phases will focus on building and improving the frontend capstone application.
