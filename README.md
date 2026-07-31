@@ -63,3 +63,13 @@ Currently preparing the development environment and workflow for the FlyRank AI 
 ## Future Development
 
 The upcoming phases will focus on building and improving the frontend capstone application.
+
+## AI Assistant Evidence
+
+Cursor was used to review and improve the project documentation.
+
+Screenshot:
+
+![Cursor AI Review](screenshots/FlyRank%20Assignment1(screenshot-1).PNG)
+
+![Cursor AI Review](screenshots/FlyRank%20Assignment1(screenshot-2).PNG)
